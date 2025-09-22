@@ -10,13 +10,12 @@ Crediting is not required but always appreciated. If you use these datasets, ple
 ## 📑 Available Datasets
 
 ### [1] 12merPeptideFitness_Classification_250K
-- **X:** Peptides of length 12 amino acids  
-- **Y:** Binary label (1/0) representing peptide fitness  
+- **X:** (peptide) Peptides of length 12 amino acids  
+- **Y:** (label) Binary label (1/0) representing peptide fitness  
 - **Data points:** 250,000  
 - **Task:** Binary classification
 - **Tutorials:** (a) good models from bad data (classification)
 - **Source:** Owned by the author; generation process not disclosed.  
-
 ---
 
 👉 More datasets will be added here as they are released.
