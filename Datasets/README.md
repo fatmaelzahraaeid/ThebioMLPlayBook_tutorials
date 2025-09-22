@@ -3,7 +3,7 @@
 The **TheBioMLClinic Datasets** are a collection of ML-oriented datasets created and released by the author, **Fatma Elzahraa Eid**, under the **CC0 1.0 Universal License (Public Domain Dedication)**.  
 
 This means the datasets are free to use, modify, and redistribute — including for commercial purposes.  
-Crediting is not required but **always appreciated** 🙏. If you use these datasets, please cite this GitHub repository.  
+Crediting is not required but **always appreciated**. If you use these datasets, please cite this GitHub repository.  
 
 ---
 
