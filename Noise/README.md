@@ -25,4 +25,5 @@ This folder contains hands-on tutorials developed as part of **TheBioMLClinic**,
 ---
 
 ✍️ *Author: Fatma Elzahraa Eid*  
-🌐 Part of [TheBioMLClinic](../) project.
+🌐 Part of [TheBioMLKnowHow](../) project.
+🌐 Part of [TheBioMLClinic](../) effort.
