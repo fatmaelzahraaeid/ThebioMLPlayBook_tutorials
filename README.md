@@ -29,8 +29,10 @@ A set of **Jupyter notebooks** and **datasets** sharing practical know-how for e
 
 ## Contributing & Roadmap
 
-> This is a work in progress; suggestions and corrections are welcome.  
+> This is a work in progress; suggestions and corrections are welcome.
+> 
 > Additional topics will be added. Please open an issue or reach out with requests.
+> 
 > Please consider starring this repo if you find it useful.
 
 
