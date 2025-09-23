@@ -23,7 +23,7 @@ A set of **Jupyter notebooks** and **datasets** sharing practical know-how for e
 |---|---|---:|---:|---:|
 | **12-mer Peptide Fitness** | Classification | 250k rows | CSV | [dataset](Datasets/ThebioMLClinicDatasets_12merPeptideFitness_Classification_250K.csv) |
 
-> All datasets are made available under CC0 license.
+> All datasets are owned by the author and are made available under CC0 license.
 
 ---
 
