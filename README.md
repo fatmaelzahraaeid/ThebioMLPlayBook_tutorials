@@ -10,7 +10,7 @@ A set of **Jupyter notebooks** and **datasets** sharing practical know-how for e
 
 | Tutorial | What you learn | Open in Colab | View on GitHub |
 |---|---|---:|---:|
-| **Good Models from Bad Data (Classification)** | How to build robust classifiers when labels are noisy; design choices (batch size, LR) and their impact. | <a href="https://colab.research.google.com/github/fatmaelzahraaeid/ThebioMLPlayBook_tutorials/blob/Noise/tutorials/good_models_from_bad_data_classification.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> | [Notebook](Noise/good_models_from_bad_data_classification.ipynb) |
+| **Good Models from Bad Data (Classification)** | How to build robust classifiers when labels are noisy; design choices (batch size, LR) and their impact. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatmaelzahraaeid/TheBioMLPlayBook_tutorials/blob/main/Noise/good_models_from_bad_data_classification.ipynb) | [Notebook](Noise/good_models_from_bad_data_classification.ipynb) |
 
 > 💡 Tip: In Colab, go to **Runtime → Change runtime type** to enable GPU if training is heavy.
 >  All notebooks are made available under the MIT license.
