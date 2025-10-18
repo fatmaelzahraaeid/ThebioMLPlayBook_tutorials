@@ -1,4 +1,5 @@
 # The BioML PlayBook Tutorials (Open Source Software & Datasets)
+## The art of making ML work in biology no one speaks about.
 
 A set of **Jupyter notebooks** and **datasets** sharing practical know-how for enabling ML models on biological data. Distilled from over two decades of hands-on experience.
 
