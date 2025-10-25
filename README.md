@@ -3,6 +3,8 @@
 
 A set of **Jupyter notebooks** and **datasets** sharing practical know-how for enabling ML models on biological data. Distilled from over two decades of hands-on experience.
 
+The BioMLPlayBook Blog can be found here: https://thebiomlplaybook.blogspot.com/
+
 > Run tutorials in your browser via Colab or download the notebooks and datasets to run locally.
 
 ---
